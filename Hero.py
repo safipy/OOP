@@ -32,4 +32,3 @@ print(f' Hero nickname is {hero.nickname}.'
       f' \n He is very {hero.superpower}. '
       f'\n And his health-point is = {hero.health_points}')
 print(f' His cathphrase len is = {len(hero.catchphrase)}')
-print(f'')
